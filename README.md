@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ifloppy
+- 👋 Hi, Ich bin @ifloppy
 - 👀 I’m interested in 摆烂、睡觉、摸鱼
 - 🌱 I’m currently learning Object Pascal
-- 💞️ I’m looking to collaborate on 一起睡大觉
+- 💞️ 热爱Free Pascal和Lazarus
 - 📫 How to reach me: see iruanp.com
 
 模板都懒得多改一下
