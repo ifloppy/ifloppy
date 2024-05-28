@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifloppy" alt="ifloppy" /></a> </p>
 
-- 🌱 正在学习 **Next.js**
+- 🌱 正在学习 **React**
 
 - 📝 不定期更新的博客 [https://www.iruanp.com/](https://www.iruanp.com/)
 
